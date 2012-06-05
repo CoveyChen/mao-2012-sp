@@ -1,13 +1,25 @@
 https://en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
+
 https://en.wikipedia.org/wiki/History_of_the_Internet
+
 https://en.wikipedia.org/wiki/Internet_in_China
+
 https://en.wikipedia.org/wiki/Internet_censorship_in_the_People%27s_Republic_of_China
+
 http://www.fas.org/sgp/crs/row/RL33167.pdf
+
 http://www.brookings.edu/~/media/events/2007/12/04internet/20071204china.pdf
+
 http://english.gov.cn/2010-02/27/content_1543530.htm
-http://www.apira.org/data/upload/Mjd0aChGaW5hbCnljbDliLfniYg=_5vo9Qg.pdf
+
+# cnnic-2012-report
+http://www.cnnic.cn/research/bgxz/tjbg/201201/t20120116_23668.html
+http://www.cnnic.cn/research/bgxz/tjbg/201201/P020120118512855484817.pdf
+
 Google: censorship site:.gov.cn
+
 Google: 互联网 管制 site:.gov.cn
+
 Google: 互联网 管制 site:people.com.cn
 
 
